@@ -1,0 +1,14 @@
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\bin\Debug\netcoreapp3.1\primeiroApp.exe
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\bin\Debug\netcoreapp3.1\primeiroApp.deps.json
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\bin\Debug\netcoreapp3.1\primeiroApp.runtimeconfig.json
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\bin\Debug\netcoreapp3.1\primeiroApp.runtimeconfig.dev.json
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\bin\Debug\netcoreapp3.1\primeiroApp.dll
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\bin\Debug\netcoreapp3.1\primeiroApp.pdb
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\obj\Debug\netcoreapp3.1\primeiroApp.csproj.AssemblyReference.cache
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\obj\Debug\netcoreapp3.1\primeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\obj\Debug\netcoreapp3.1\primeiroApp.AssemblyInfoInputs.cache
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\obj\Debug\netcoreapp3.1\primeiroApp.AssemblyInfo.cs
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\obj\Debug\netcoreapp3.1\primeiroApp.csproj.CoreCompileInputs.cache
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\obj\Debug\netcoreapp3.1\primeiroApp.dll
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\obj\Debug\netcoreapp3.1\primeiroApp.pdb
+C:\Users\beatr_q\source\repos\primeiroApp\primeiroApp\obj\Debug\netcoreapp3.1\primeiroApp.genruntimeconfig.cache
